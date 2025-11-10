@@ -30,6 +30,9 @@ File Preview & Download – Safely preview or download selected research materia
 
 Automated CI/CD – Streamlined deployment via Azure DevOps for continuous updates.
 
+<img width="783" height="342" alt="Screenshot 2025-11-10 at 9 03 34 AM" src="https://github.com/user-attachments/assets/636979d1-4abb-4638-bc78-787c79b33812" />
+
+
 🎯 Purpose
 
 This app was created to modernize internal workflows by:
